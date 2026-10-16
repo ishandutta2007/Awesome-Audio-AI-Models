@@ -5,11 +5,14 @@
 # 🎙️ Awesome Audio AI Models
 
 <p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Models/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Audio-AI-Models?style=social&color=white" alt="GitHub Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Models/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Audio-AI-Models?style=social&color=white" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Models/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" /></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Audio-AI-Models/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > **A curated, comprehensive directory of state-of-the-art Audio AI Models, Neural Text-to-Speech (TTS), Zero-Shot Voice Cloning, and Generative Audio Foundation Systems across SaaS platforms and Open-Source ecosystems.**
@@ -23,6 +26,8 @@
 - [⚡ Open-Source Audio AI Projects](#-open-source-audio-ai-projects)
 - [🧠 Architecture & Deployment Guide](#-architecture--deployment-guide)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Ethical Governance & Legal Disclaimer](#️-ethical-governance--legal-disclaimer)
 
 ---
@@ -129,6 +134,24 @@ Contributions from audio engineers, AI researchers, and developers are welcome!
    - For Open-Source: include the repo link, the shields.io social star badge linking to `/stargazers`, SPDX license, and concise description.
 4. 🚀 **Commit your changes**: `git commit -m "feat: add ModelName to curated audio models"`.
 5. 📬 **Submit a Pull Request** with a brief summary of the project.
+
+---
+
+## 💖 Support
+
+Thank you for exploring and utilizing **Awesome Audio AI Models**! 🎧
+
+If you find this curated directory helpful and would like to support its ongoing research, maintenance, and the open-source audio AI community:
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork the repo** and contribute new models, benchmarks, or documentation.
+- 📢 **Share** with fellow engineers, researchers, and creators.
+- ☕ **Buy me a coffee / Sponsor**: Support future development and community initiatives directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Audio-AI-Models&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Audio-AI-Models&type=date&legend=top-left)
 
 ---
 
